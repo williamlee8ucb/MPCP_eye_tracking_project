@@ -1,0 +1,25 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+MPCPenv/
+.venv/
+venv/
+env/
+
+# Editor
+.vscode/
+.idea/
+
+# Media/output
+*.mp4
+*.mov
+*.avi
+*.csv
+
