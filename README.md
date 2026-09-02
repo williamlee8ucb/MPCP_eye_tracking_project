@@ -1,5 +1,5 @@
 # Real-Time Eye Tracking System
-**MPCP Intern Project — Computer Vision Pipeline**
+**Computer Vision Pipeline**
 
 A real-time eye tracking system built with MediaPipe FaceLandmarker and OpenCV. Detects facial landmarks, computes per-eye Eye Aspect Ratio (EAR), classifies each eye as OPEN or CLOSED, counts blinks, detects winks, and logs session data to CSV. Supports both live webcam input and pre-recorded video files.
 
